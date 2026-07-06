@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Scanner</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Sun, 05 Jul 2026 21:02:02 -0400</pubDate>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jesssqui/scanner-releases/releases/download/v2.0.0/Scanner-2.0.0.dmg" length="3150614" type="application/octet-stream" sparkle:edSignature="nA1rWjx3l2IaTOBdK3+G9apaKGxb/d0qNVMSPf/T4Jtcp+CdcMmXLNjSl6Kr5RnagM9P3KR1eeS0Mdw002TqBw=="/>
+        </item>
+    </channel>
+</rss>
