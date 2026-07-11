@@ -3,12 +3,12 @@
     <channel>
         <title>Scanner</title>
         <item>
-            <title>2.0.3</title>
-            <pubDate>Fri, 10 Jul 2026 21:00:57 -0400</pubDate>
-            <sparkle:version>2.0.3</sparkle:version>
-            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+            <title>2.0.4</title>
+            <pubDate>Fri, 10 Jul 2026 21:31:56 -0400</pubDate>
+            <sparkle:version>2.0.4</sparkle:version>
+            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jesssqui/scanner-releases/releases/download/v2.0.3/Scanner-2.0.3.dmg" length="3232997" type="application/octet-stream" sparkle:edSignature="rtEOrR4ZtptzUY9TfR16PDk2F0fsLMM2xiutXG21Gfd4mbeD2A+z7dv3WPmkWtV7kwDYkYO6N09bsAUyoN8SAg=="/>
+            <enclosure url="https://github.com/jesssqui/scanner-releases/releases/download/v2.0.4/Scanner-2.0.4.dmg" length="3393286" type="application/octet-stream" sparkle:edSignature="XuLE2LrJCaXERRuE6tVu4huQibBD8o0BLms17/ZxCgLMoGav4OPCe1eLHZTrc/ZbUcZUV45QPJXr5YETXP2FAA=="/>
         </item>
     </channel>
 </rss>
