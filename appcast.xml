@@ -3,12 +3,12 @@
     <channel>
         <title>Scanner</title>
         <item>
-            <title>2.0.4</title>
-            <pubDate>Fri, 10 Jul 2026 21:31:56 -0400</pubDate>
-            <sparkle:version>2.0.4</sparkle:version>
-            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+            <title>2.1.0</title>
+            <pubDate>Fri, 10 Jul 2026 21:45:30 -0400</pubDate>
+            <sparkle:version>2.1.0</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jesssqui/scanner-releases/releases/download/v2.0.4/Scanner-2.0.4.dmg" length="3393286" type="application/octet-stream" sparkle:edSignature="XuLE2LrJCaXERRuE6tVu4huQibBD8o0BLms17/ZxCgLMoGav4OPCe1eLHZTrc/ZbUcZUV45QPJXr5YETXP2FAA=="/>
+            <enclosure url="https://github.com/jesssqui/scanner-releases/releases/download/v2.1.0/Trading-Card-Scanner-Pro-2.1.0.dmg" length="3393589" type="application/octet-stream" sparkle:edSignature="zyP5WmMyCSnmzeHFAO5oaeBq9go+fbI5gX3JYTK0jmUZhiOjMZcrj62W3uVQU8VkzcfPDGlEV2Hu8EnEELFqBg=="/>
         </item>
     </channel>
 </rss>
